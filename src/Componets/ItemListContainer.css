@@ -1,0 +1,7 @@
+.ItemListContainer{
+    height: 200px;
+    width: 150px;
+    background-color: whitesmoke;
+    justify-content: space-around;
+    align-items: center;
+    }
